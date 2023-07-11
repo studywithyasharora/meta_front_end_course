@@ -1,0 +1,20 @@
+body{ 
+     background-color: #E0E0E2 ;
+     text-align: center;
+}
+ h1{
+     color: #721817;
+ }
+ h2{
+     color: #721817;
+ }
+#logo{
+    align-items: center;
+}
+span h2{
+    color:#FA9F42 ;
+}
+copyright{
+    padding-top: 12;
+    text-size-adjust: 0.75;
+}
